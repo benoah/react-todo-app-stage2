@@ -22,7 +22,7 @@ const todosData = [
   {
     id: 5,
     text: "Catch up on Arrested Development",
-    completed: false,
+    completed: true,
   },
 ];
 
